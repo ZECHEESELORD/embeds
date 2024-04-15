@@ -1,0 +1,37 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "color": 2829617,
+        "fields": [
+          {
+            "name": "Depends on how much you use Palatial.",
+            "value": "Palatial is consumption based and credits can be purchased pay as you go, or through monthly subscriptions.\n\nProjects are free to upload, and every new sign up comes with $80 of credits included for free. Stream credits are used to view your project on a browser, and export credits (calculated based on on the size of your upload file) are used to download your project as an optimized UE5 project."
+          }
+        ]
+      },
+      {
+        "color": 2829617,
+        "fields": [
+          {
+            "name": "⏺️ Pay-as-you-go",
+            "value": "> Subscription cost: $0\n> Export credits: $60/GB\n> Stream time: $20/hr"
+          },
+          {
+            "name": "⏺️ Basic subscription",
+            "value": "> Subscription cost: $99/month\n> Included export credits: 2GB/month\n> Included stream time: 5hrs/month"
+          },
+          {
+            "name": "⏺️ Pro subscription",
+            "value": "> Subscription cost: $499/month\n> Included export credits: 30GB/month\n> Included stream time: 20hrs/month"
+          }
+        ],
+        "footer": {
+          "text": "Last updated"
+        },
+        "timestamp": "2024-04-15T02:34:00.000Z"
+      }
+    ],
+    "attachments": [],
+    "thread_name": "How much will it cost?"
+  }
