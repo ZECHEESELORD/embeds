@@ -1,0 +1,16 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "color": null,
+        "fields": [
+          {
+            "name": "You're already in the right place!",
+            "value": "The fastest way to reach support is by submitting a ticket through the support channel. Start by verifying your subscription status here: <#1227753026694025246>\n\nWe'll have a response for you within 24 hours for pro subscribers, and within 48 hours for basic subscribers.\n\nFor general questions or troubleshooting, make a new post in <#1227753022424223764> and we'll all pitch in to make sure it gets answered."
+          }
+        ]
+      }
+    ],
+    "attachments": [],
+    "thread_name": "How do I contact support?"
+  }
