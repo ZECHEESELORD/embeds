@@ -1,0 +1,21 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "We contextually apply best practices to optimize for performance.",
+          "value": "Palatial methodically goes through a scene to group and instance meshes, set up virtual textures, and replace incompatible materials with placeholders that can be easily fixed in Unreal Engine.\n\nLights are adjusted and clustered to reduce complexity, or replaced with proxy lights depending on user settings. Nanite and LODs will also be set up across the scene.\n\nThe result is a project that runs at >30fps on a web browser, is visually faithful to the original model, and is easily edited in Unreal Engine."
+        }
+      ]
+    },
+    {
+      "title": "For more info, check out our deep dive on Palatial's optimization approach.",
+      "url": "https://www.palatialxr.com/post/optimizing-performance-for-imported-scenes-in-unreal-engine",
+      "color": 2829617
+    }
+  ],
+  "attachments": [],
+  "thread_name": "How are geometry, materials, and lighting optimized?"
+}

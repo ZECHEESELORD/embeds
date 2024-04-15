@@ -1,0 +1,16 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "Kind of.",
+          "value": "Palatial is able to import animated objects through Datasmith, however skeletal niches and other animated objects will not be optimized at this time.\n\nWe'll keep you updated!"
+        }
+      ]
+    }
+  ],
+  "attachments": [],
+  "thread_name": "Are animated scenes supported?"
+}

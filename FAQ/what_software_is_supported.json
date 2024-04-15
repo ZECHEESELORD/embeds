@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "3dsMax, Revit, and Rhino, through the Datasmith format.",
+          "value": "While other 3D software including Cinema4D and Sketchup Pro can be processed with Palatial via the Datasmith exporter, results may be unstable.\n\nFor users on the Pro subscription, we can also optimize and process existing UE5.3 projects."
+        }
+      ],
+      "footer": {
+        "text": "Last updated"
+      },
+      "timestamp": "2024-04-15T16:57:00.000Z"
+    }
+  ],
+  "attachments": [],
+  "thread_name": "What software is supported?"
+}

@@ -1,0 +1,20 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "Pretty accurate.",
+          "value": "Palatial can translate standard materials from Revit, Rhino, and 3dsMax into Unreal Engine faithfully.\n\nDatasmith exports do not currently support advanced materials, such as some types of Vray and Corona materials and other custom shading models - we are currently building a fix, which will be available in the next few months. See [here](https://www.notion.so/Known-Datasmith-material-issues-4e680cea0f584efb9cfa267adad134b3?pvs=4) for currently known material issues."
+        }
+      ],
+      "footer": {
+        "text": "Last updated"
+      },
+      "timestamp": "2024-04-15T17:47:00.000Z"
+    }
+  ],
+  "attachments": [],
+  "thread_name": "How accurate are the results?"
+}

@@ -1,0 +1,25 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "No APIs yet!",
+          "value": "We currently don't have an API, but this along with an Unreal Engine based plugin are both on our upcoming roadmap."
+        }
+      ]
+    },
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "DM us if you have a custom project or request.",
+          "value": "We take on custom projects based on availability and how closely it aligns with our roadmap. We're always happy to chat - just send a Palatial team member a DM or email us at [hello@palatialxr.com](mailto:hello@palatialxr.com)"
+        }
+      ]
+    }
+  ],
+  "attachments": [],
+  "thread_name": "Do you offer customization options or APIs for developers?"
+}

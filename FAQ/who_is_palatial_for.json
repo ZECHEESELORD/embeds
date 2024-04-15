@@ -1,0 +1,16 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "We built Palatial for 3D artists and designers (including aspiring ones).",
+          "value": "Specifically designed to handle a variety of 3D scenes, Palatial can extend the use of existing models used for visualization or design by turning them into shareable interactive spatial environments.\n\nLike a universal adapter, Palatial can be used in a variety of ways - we recently saw a user use the tool to prepare a Cinema4D model for Fortnite!"
+        }
+      ]
+    }
+  ],
+  "attachments": [],
+  "thread_name": "Who is Palatial for?"
+}

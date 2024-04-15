@@ -1,0 +1,16 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "Yes, but 3D models built for non-realtime uses require additional optimization and translation.",
+          "value": "This is to ensure that the imported scene performs well and is visually faithful to intentions. When directly importing complex scenes, it's not unusual to see extremely slow performance and missing materials.\n\nDepending on the size of the model, fixing this may take days or weeks, and requires a working knowledge of computer graphics, Unreal Engine, and high-end computer hardware.\n\nPalatial automates the initial optimization and translation using a context aware approach, so that models can be prepared, previewed, and edited in hours, instead of days."
+        }
+      ]
+    }
+  ],
+  "attachments": [],
+  "thread_name": "Can't I just use USD or FBX to import my model into Unreal Engine?"
+}

@@ -1,0 +1,36 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "We're accelerating the transformation from 3D model to spatial experience.",
+          "value": "By automating the conversion and optimization process from 3D software to game engine, Palatial can turn large 3D scene into a spatial experience accessible on any device with a few clicks."
+        }
+      ],
+      "image": {
+        "url": "http://cdn.mcauto-images-production.sendgrid.net/1250d286ec7b9cc3/9ac9006e-a2c2-4167-919e-56f89294b844/1080x621.png"
+      }
+    },
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "How it works",
+          "value": "Palatial is entirely browser based, and has no minimum system requirements. Simply prepare your file using Unreal Engine’s Datasmith plugin, upload it to your workspace, and we’ll take care of the rest."
+        }
+      ]
+    },
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "The vision",
+          "value": "With no minimum hardware or skill requirements, Palatial's vision is to make creating AR, VR, mobile, and web experiences accessible to all creators."
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}

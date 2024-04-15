@@ -1,0 +1,16 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "color": 2829617,
+      "fields": [
+        {
+          "name": "Any device with a stable internet connection.",
+          "value": "Entirely cloud processed and browser based, there are no system requirements. As long as you have a prepared 3D file and a stable internet connection, you're good to go!"
+        }
+      ]
+    }
+  ],
+  "attachments": [],
+  "thread_name": "What are the system requirements?"
+}
