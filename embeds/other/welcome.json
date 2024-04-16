@@ -1,0 +1,43 @@
+{
+    "content": null,
+    "embeds": [
+      {
+        "title": "Welcome to Palatial!",
+        "description": "I'm Saucy, office dog and your community guide.\nFor more info, you can also check out our [website](https://www.palatialxr.com/) and [doc hub](https://palatial.notion.site/).",
+        "color": 2829617,
+        "author": {
+          "name": "Saucy",
+          "icon_url": "https://cdn.discordapp.com/avatars/1229178230779674745/62448b0faa7f51b8f58cb264fd407240.webp?size=48"
+        }
+      },
+      {
+        "color": 2829617,
+        "fields": [
+          {
+            "name": "📒 • Channel Directory",
+            "value": "`Info`\n> <#1227753012206899220> • Check out the rules\n> <#1227753013347881053> • Monthly development updates, new features, and other important news\n\n`Resources`\n>  <#1227753031521796106> • Commonly asked questions about Palatial\n>  <#1227753032989675611> • A collection of our favourite tutorials and how-tos\n\n`Community`\n>  <#1227753020520009800> • Show and peep projects\n> <#1227753022424223764> • Ask and answer 3D questions\n>  <#1227753016317444098> • Tell us what you'd like to see in future updates!\n\n`Let's chat!`\n>  <#1227753017944707093> • Introductions + chat about all things spatial 3D\n> <#1227753011170775101> • Come chill with us every Friday @5pm EST"
+          }
+        ],
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/icons/1103426665117397015/bae7518d5a4d3d73e9fbd1f620e43db2.webp?size=160"
+        }
+      },
+      {
+        "color": 2829617,
+        "fields": [
+          {
+            "name": "🧑‍🎤 • Roles:",
+            "value": "`Staff`\n> ‣ <@&1227752956376383509>: Member of the Palatial team - we're here to help!\n> ‣ <@&1227752957643063407>: Fellow friends and acquaintances\n\n`Bots`\n> ‣ <@&1227752961644429392>:  Bots, tools, and other automation will be given this role. Beep Boop!"
+          }
+        ],
+        "footer": {
+          "text": "Last Updated:"
+        },
+        "timestamp": "2024-04-15T13:34:00.000Z",
+        "thumbnail": {
+          "url": "https://cdn.discordapp.com/attachments/1221261652951830548/1229423054065504357/2b2d31.png?ex=662fa071&is=661d2b71&hm=f7749c24cbb0bc8157f82512924727d33d369ebd9086da8c35e27f4399f9a974&"
+        }
+      }
+    ],
+    "attachments": []
+  }
