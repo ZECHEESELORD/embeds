@@ -30,7 +30,7 @@ async def on_ready():
         await thread.delete()
     for root, dirs, files in os.walk('embeds'):
         # Sort the files numerically based on the prefix
-        files.sort(key=lambda x: int(x.split('_')[0]))
+        files.sort(key=lambda x: int(x.split('_')[0]), reverse=True)
         for filename in files:
             if filename.endswith('.json'):
                 with open(os.path.join(root, filename), encoding='utf-8') as f:
