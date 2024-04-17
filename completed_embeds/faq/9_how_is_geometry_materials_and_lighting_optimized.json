@@ -6,7 +6,7 @@
       "fields": [
         {
           "name": "We contextually apply best practices to optimize for performance.",
-          "value": "Palatial methodically goes through a scene to group and instance meshes, set up virtual textures, and replace incompatible materials with placeholders that can be easily fixed in Unreal Engine.\n\nLights are adjusted and clustered to reduce complexity, or replaced with proxy lights depending on user settings. Nanite and LODs will also be set up across the scene.\n\nThe result is a project that runs at >30fps on a web browser, is visually faithful to the original model, and is easily edited in Unreal Engine."
+          "value": "Palatial methodically goes through a scene to merge and instance meshes, de-duplicate assets, and replace incompatible materials with placeholders that can be easily fixed in Unreal Engine.\n\nLights are exposure adjusted and attenuated to reduce complexity, or replaced with proxy lights depending on user settings. Nanite and LODs will also be set up across the scene.\n\nThe result is a project that runs at >30fps on a web browser, is visually faithful to the original model, and is easily editable in Unreal Engine."
         }
       ]
     },
@@ -17,5 +17,5 @@
     }
   ],
   "attachments": [],
-  "thread_name": "How are geometry, materials, and lighting optimized?"
+  "thread_name": "How is geometry, materials and lighting optimized?"
 }

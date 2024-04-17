@@ -6,7 +6,7 @@
       "fields": [
         {
           "name": "Yes!",
-          "value": "We've tested Palatial with complex city-scale models that are 18GB in size. If you have a large or extra nasty project that you'd like to use Palatial for, reach out to [hello@palatialxr.com](mailto:hello@palatialxr.com) and we'll work with you to figure things out."
+          "value": "We've tested Palatial with complex city-scale models that are 18GB in size. If you have a large or extra nasty project that you'd like to use Palatial for, reach out to `hello@palatialxr.com` and we'll work with you to figure things out."
         }
       ]
     }

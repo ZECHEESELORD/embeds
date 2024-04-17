@@ -24,10 +24,10 @@ bot = discord.Bot(command_prefix="!", intents=intents)
 @bot.event
 async def on_ready():
     logging.info(f'We have logged in as {bot.user}')
-    forum_channel: discord.ForumChannel = bot.get_channel(1229627031323414546)  # Replace with your channel ID
-    threads = await forum_channel.archived_threads().flatten()
-    for thread in threads:
-        await thread.delete()
+    forum_channel: discord.ForumChannel = bot.get_channel(1229828974410989618)  # Replace with your channel ID
+    #threads = await forum_channel.archived_threads().flatten()
+    #for thread in threads:
+        #await thread.delete()
     for root, dirs, files in os.walk('embeds'):
         # Sort the files numerically based on the prefix
         files.sort(key=lambda x: int(x.split('_')[0]), reverse=True)
