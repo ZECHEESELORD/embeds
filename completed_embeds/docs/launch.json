@@ -1,0 +1,15 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Aaaaaaand we're live!",
+      "description": "Thanks for your patience as we've been revamping the server to be less confusing and more useful. Grab a coffee, poke around, and add your two cents!",
+      "color": 5814783,
+      "footer": {
+        "text": "Last updated"
+      },
+      "timestamp": "2024-04-17T04:52:00.000Z"
+    }
+  ],
+  "attachments": []
+}
